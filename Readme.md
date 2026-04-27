@@ -1,4 +1,3 @@
-<img width="990" height="521" alt="Screenshot 2026-04-27 094452" src="https://github.com/user-attachments/assets/4a8d641a-f52b-4efb-8e34-276330b9ccf0" /># Lab Frida — Rapport d'analyse de sécurité mobile 
 **Appareil :** Android Emulator 5554  
 **Version Frida :** 17.9.1  
 **Date :** 2026-04-27
